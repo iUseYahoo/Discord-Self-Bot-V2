@@ -1,4 +1,9 @@
 ### Discord Self Bot V2
+- Added Database that the V1 didn't have.
+- Download [SQL DB Browser x64 Windows](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win64.msi)
+- Download [SQL DB Browser x32 Windows](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win32.msi)
+- Download [SQL DB Browser macOS](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2.dmg)
+- For Linux Machines check their [page](https://sqlitebrowser.org/dl/) for download options.
 
 ### Software Needed
 - [Nodejs](https://nodejs.org/en/download/)
