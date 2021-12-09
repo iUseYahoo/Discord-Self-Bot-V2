@@ -16,6 +16,7 @@ client.on("message", msg => {
         console.log(`User: ${msg.author.username.toString()}`); // printing the messagers username
         console.log(`Message: ${msg.content.toString()}`);  // printing the message that was sent
         console.log('\n');
+        // Inserting into the main_table table with the values needed
         db.exec(`INSERT INTO main_table (Guild,Channel,User,Message) VALUES("${msg.guild.name.toString()}", "${msg.channel.name}", "${msg.author.username.toString()}", "${msg.content.toString()}");`);
     } else return; // If not sent in a guild then return nothing
 })
