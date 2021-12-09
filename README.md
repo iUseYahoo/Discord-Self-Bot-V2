@@ -1,4 +1,14 @@
 ### Discord Self Bot V2
+
+<p>
+    <a href="https://www.codefactor.io/repository/github/iuseyahoo/discord-self-bot-v2">
+        <img src="https://www.codefactor.io/Content/badges/APlus.svg">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Status-Working-green">
+    </a>
+</p>
+
 - Installing SQL DB Browser is not needed unless you want to read the messages in the database. You can read messages from the console itself.
 - Added Database that the V1 didn't have.
 - Download [SQL DB Browser x64 Windows](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win64.msi)
