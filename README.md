@@ -8,10 +8,11 @@
     </a>
 </p>
 
-- Latest Update
+### Latest Update
 - Fixed x2 Security issues that are now fixed.
 - Updated the bot to work. Discord doesnt allow message loggers on human account if the discord.js version is above 12.
 
+### Installation
 - Installing SQL DB Browser is not needed unless you want to read the messages in the database. You can read messages from the console itself.
 - Added Database that the V1 didn't have.
 - Download [SQL DB Browser x64 Windows](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win64.msi)
@@ -34,3 +35,4 @@
 
 ### Important
 - Using this self bot is against Discord [TOS](https://discord.com/terms) and can get you banned.
+- x2 Security flaws were fixed in this latest repo update.
