@@ -9,7 +9,7 @@
 </p>
 
 ### Latest Update
-- Fixed x2 Security issues that are now fixed.
+- x2 Security issues that are now fixed.
 - Updated the bot to work. Discord doesnt allow message loggers on human account if the discord.js version is above 12.
 
 ### Installation
