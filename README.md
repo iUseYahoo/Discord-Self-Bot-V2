@@ -1,5 +1,4 @@
 ### Discord Self Bot V2
-
 <p>
     <a href="https://www.codefactor.io/repository/github/iuseyahoo/discord-self-bot-v2">
         <img src="https://www.codefactor.io/Content/badges/APlus.svg">
@@ -8,6 +7,10 @@
         <img src="https://img.shields.io/badge/Status-Working-green">
     </a>
 </p>
+
+- Latest Update
+- Fixed x2 Security issues that are now fixed.
+- Updated the bot to work. Discord doesnt allow message loggers on human account if the discord.js version is above 12.
 
 - Installing SQL DB Browser is not needed unless you want to read the messages in the database. You can read messages from the console itself.
 - Added Database that the V1 didn't have.
