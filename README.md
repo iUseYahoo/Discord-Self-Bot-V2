@@ -9,8 +9,7 @@
 </p>
 
 ### Latest Update
-- x2 Security issues that are now fixed.
-- Updated the bot to work. Discord doesnt allow message loggers on human account if the discord.js version is above 12.
+- Fixed multiple security vulnerabilities.
 
 ### Installation
 - Installing SQL DB Browser is not needed unless you want to read the messages in the database. You can read messages from the console itself.
