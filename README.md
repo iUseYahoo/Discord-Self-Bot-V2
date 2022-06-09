@@ -23,7 +23,7 @@
 - [Nodejs](https://nodejs.org/en/download/)
 
 ### NPM Packages Needed
-- npm i discord.js@12.5.3
+- npm i discord.js@11.5.1
 - npm i nodemon@2.0.15
 - npm i sqlite3@5.0.2
 
