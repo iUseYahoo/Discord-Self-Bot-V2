@@ -4,6 +4,8 @@ const token = ""; // Put your User Token in here
 const sqlite3 = require("sqlite3");
 const db = new sqlite3.Database("./Database/main.db");
 
+console.log("-- Code may no longer work due to Discord.JS due to version being outdated.")
+
 client.on("ready", () => {    
     console.log(`\n--- Logger is Online! ---\n`)
 });
